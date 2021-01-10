@@ -10,6 +10,9 @@ Welcome to The Laundry Closet System's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Concept <concept>
+   Project Updates <project_updates>
+
 
 
 Indices and tables
